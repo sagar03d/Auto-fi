@@ -1,6 +1,6 @@
 # Auto-fi
 ## An Automated wifi script
-Install wifi modeule to make it work
+Install wifi module to make it work
 ```
 pip install wifi
 ```
